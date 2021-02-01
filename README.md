@@ -1,11 +1,9 @@
-# deco1013-microbit
-
-unikey: ssav7912
+# Micro:bit Ludic Digital Design Project
 
 Name: Soren Saville Scott
 
 ## Description
-This repository contains python code and firmware for my DECO1013 proposal. ProposalMerge.py contains main running code that controls a wireless lamp system with controls for Hue and saturation, that transmits its state to its partner periodically. 
+This repository contains python code and firmware for a Ludic Physical Computing design project. ProposalMerge.py contains main running code that controls a wireless lamp system with controls for Hue and saturation, that transmits its state to its partner periodically. Documentation.pdf contains design documentation and showcases of the final product.
 
 ## Hardware Requirements
 Requires 2 of:
